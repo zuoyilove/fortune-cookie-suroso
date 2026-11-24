@@ -14,5 +14,5 @@
 ## 提交
 
 - 仓库：https://github.com/zuoyilove/fortune-cookie-suroso
-- commit：471bd5d436313fdeaf681dd2a0ef7b96b4f7e2f9（首版；含 main.py / README.md / LICENSE(MIT) / .makefun/owner.json）
+- commit：c96a8ddebe05f80db021c923931e3e1867d34679（提交版；471bd5d 为首版，c96a8dd 加 NOTES.md）
 - 配额：当日余 5/5（UTC 日），盲轮名额可用；referral_code 用本账号自己的 dcz81z7d。
